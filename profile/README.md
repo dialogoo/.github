@@ -1,4 +1,5 @@
-## dialogoo: LLMs as Communication Infrastructure
+# DIALOGOO
+## LLMs as Communication Infrastructure
 
 At **dialogoo**, we design and develop with the conviction that **Large Language Models (LLMs) are enablers of communication**—not endpoints, not actors, not companions.
 
