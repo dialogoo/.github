@@ -42,9 +42,9 @@ Whether you're into prototyping, LLM workflows, data privacy, or simply experime
 
 ## Projects & Repositories
 #### laiive is the main product of DIALOGOO, however most of the services that are behind laiive are being built under Apache 2.0 license so they can be used by other products to expand DIALOGOO values.
-- laiive_smm_agent (a vive coding experiment, if you want to try to touch the frankentein you are wellcome, but don't lose your time)
+- [laiive_smm_agent](https://github.com/dialogoo/laiive_SMM_agent) a vive coding experiment, if you want to try to touch the frankentein you are wellcome, but don't lose your time, it is worthless.
 - laiive scrap (data scraping engine for first phase data)
 - laiive pro (text to postgres extractor with human validation)
-- laiive app (chat with postgress knowledge database)
+- [laiive app](https://github.com/dialogoo/laiive) a RAG-chat with laiive knowledge database
 - laiive publics (frontends for pro and common app)
 - open source UDO RS (user onwnership data - Recomender System)
