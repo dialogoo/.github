@@ -37,7 +37,7 @@ Whether you're into prototyping, LLM workflows, data privacy, or simply experime
 - Respect data ownership and consent principles.
 
 📄 Read the full contributing guide here:  
-[contributing.md](../contributing.md)
+[contributing.md](./contributing.md)
 
 ## Projects & Repositories
 - laiive_smm_agent (a vive coding experiment, if you want to try to touch the frankentein you are wellcome, but don't lose your time)
