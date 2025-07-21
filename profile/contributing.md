@@ -25,6 +25,7 @@ If this resonates with you, you're in the right place.
 ```bash
 git clone https://github.com/dialogoo/your-target-repo.git
 cd your-target-repo
+```
 
 ### 2. Set Up
 Each project will have its own README.md with setup instructions.
