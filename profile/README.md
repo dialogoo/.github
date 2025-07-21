@@ -21,3 +21,28 @@ At **dialogoo**, we design and develop with the conviction that **Large Language
 
 We are committed to exploring the role of LLMs in **creating new ways to connect**, while ensuring that **agency, ownership, and intention remain in human hands**.  
 Our ambition is to build tools that are both technically sophisticated and socially grounded—designed not to impress, but to empower.
+
+---
+
+## 🤝 Contributing
+
+We welcome collaborators who share our values of ethical AI, open communication, and human-centered design.
+
+Whether you're into prototyping, LLM workflows, data privacy, or simply experimenting with new ideas—you're invited.
+
+### Summary:
+- Be kind, constructive, and clear in discussions.
+- Keep humans in the loop—both in code and in philosophy.
+- Follow the project structure and document your changes.
+- Respect data ownership and consent principles.
+
+📄 Read the full contributing guide here:  
+[CONTRIBUTING.md](./CONTRIBUTING.md)
+
+## Projects & Repositories
+- laiive_smm_agent (a vive coding experiment, if you want to try to touch the frankentein you are wellcome, but don't lose your time)
+- laiive scrap (data scraping engine for first phase data)
+- laiive pro (text to postgres extractor with human validation)
+- laiive app (chat with postgress knowledge database)
+- laiive publics (frontends for pro and common app)
+- open source UDO RS (user onwnership data - Recomender System)
