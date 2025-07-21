@@ -50,3 +50,6 @@ git push origin your-feature-name
 ### 5. Open a Pull Request
 Describe the why behind your change.
 If it's experimental, note it. If it's core to the project, explain how it aligns with dialogoo’s values.
+
+### 6. Commit Message Guidelines
+Not a must, but a good practice that soon or later you should apply ->> follow the [Angular commit message guidelines](https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#commit)
