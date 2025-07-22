@@ -41,7 +41,7 @@ Whether you're into prototyping, LLM workflows, data privacy, or simply experime
 [contributing.md](./contributing.md)
 
 ## Projects & Repositories
-#### [laiive](https://github.com/dialogoo/laiive/tree/main) is the main product of DIALOGOO, however most of the services that are behind laiive are being built under Apache 2.0 license so they can be used by other products to expand DIALOGOO values.
+#### [laiive](https://github.com/dialogoo/laiive/tree/main) is the main product of DIALOGOO, however most of the services that are behind laiive are being built under MIT or Apache 2.0 license so they can be used by other products to expand DIALOGOO values.
 - [laiive_smm_agent](https://github.com/dialogoo/laiive_SMM_agent) a vive coding experiment, if you want to try to touch the frankentein you are wellcome, but don't lose your time, it is worthless.
 - [scraper](https://github.com/dialogoo/laiive/tree/main/services/scraper) data scraping engine until the wheel turns by itself.
 - [data extractor](https://github.com/dialogoo/laiive/tree/main/services/pusher) text to sql extractor with human validation workflows.
