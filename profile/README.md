@@ -46,5 +46,5 @@ Whether you're into prototyping, LLM workflows, data privacy, or simply experime
 - [scraper](https://github.com/dialogoo/laiive/tree/main/services/scraper) data scraping engine until the wheel turns by itself.
 - [data extractor](https://github.com/dialogoo/laiive/tree/main/services/pusher) text to sql extractor with human validation workflows.
 - [retriever](https://github.com/dialogoo/laiive) a RAG-chat with laiive knowledge database
-- [laiive UI](https://github.com/dialogoo/laiive/tree/main/services/frontend) "No clic" frontends for user and pro version.
+- [laiive UI](https://github.com/dialogoo/laiive/tree/main/services/frontend) just a "Zero clic" frontend.
 - [UDO Recocommendation System](https://github.com/dialogoo/UDO-Recomendation-System) UDO RS stands for user data ownership - Recomender System, this means that no black box will manipulate users, they know what they share, they can delete it, and change it at anytime.
