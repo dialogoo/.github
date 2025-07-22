@@ -1,11 +1,11 @@
-# 🤝 Contributing to dialogoo
+# Contributing to dialogoo
 
 Thanks for your interest in contributing!  
 We're building human-centered, AI-assisted tools that prioritize ethical design, open collaboration, and real-world connection. Your input matters.
 
 ---
 
-## 🧭 Core Principles
+## Core Principles
 
 At dialogoo, we:
 
@@ -18,7 +18,7 @@ If this resonates with you, you're in the right place.
 
 ---
 
-## 📋 How to Contribute
+## How to Contribute
 
 ### 1. Fork & Clone
 
