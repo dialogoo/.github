@@ -25,7 +25,7 @@ Our ambition is to build tools that are both technically sophisticated and socia
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome collaborators who share our values of ethical AI, open communication, and human-centered design.
 
