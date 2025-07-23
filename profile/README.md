@@ -43,6 +43,8 @@ Whether you're into prototyping, LLM workflows, data privacy, or simply experime
 [contributing.md](./contributing.md)
 
 ## Projects & Repositories
+<img width="100" height="100" alt="laiive1" src="https://github.com/user-attachments/assets/9a868af9-856b-47a8-b675-fcf7e2e309f1" />    <img width="100" height="100" alt="UDOs" src="https://github.com/user-attachments/assets/dc7a3194-57d5-4b16-a63c-2dca1d9a0e08" />
+
 #### [laiive](https://github.com/dialogoo/laiive/tree/main) is the main project of DIALOGOO, however most of the services that are behind laiive are being built in a tranferable way, so they can be used by other projects to expand DIALOGOO values.
 - [laiive_smm_agent](https://github.com/dialogoo/laiive_SMM_agent) a vive coding experiment, if you want to try to touch the frankentein you are wellcome, but don't lose your time, it's precious.
 - [scraper](https://github.com/dialogoo/laiive/tree/main/services/scraper) data scraping engine until the wheel turns by itself.
