@@ -1,5 +1,5 @@
 # DIALOGOO
-<img width="100" height="100" alt="DIALOGOOdark" src="https://github.com/user-attachments/assets/6502d33a-bb9b-452a-96bb-4c66450605a7" />
+<img width="159" height="159" alt="DIALOGOOdark" src="https://github.com/user-attachments/assets/6502d33a-bb9b-452a-96bb-4c66450605a7" />
 
 ## LLMs as Communication Infrastructure
 
