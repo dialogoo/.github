@@ -1,55 +1,61 @@
 # DIALOGOO
 <img width="100" height="100" alt="DIALOGOOdark" src="https://github.com/user-attachments/assets/6502d33a-bb9b-452a-96bb-4c66450605a7" />    <img width="100" height="100" alt="laiive1" src="https://github.com/user-attachments/assets/9a868af9-856b-47a8-b675-fcf7e2e309f1" />    <img width="100" height="100" alt="UDOs" src="https://github.com/user-attachments/assets/dc7a3194-57d5-4b16-a63c-2dca1d9a0e08" />
 
-## LLMs as Communication Infrastructure
+## Applied AI Safety
 
-At **dialogoo**, we design and develop with the conviction that **Large Language Models (LLMs) are enablers of communication**, not endpoints, not actors, not companions.
+Dialogoo was born as a natural response to digital unbalance. 
+We are aware that the digital layer grows thicker every day, a digital intermediate layer is growing between human connections and the models or agents that are managing those connections are becoming increasingly powerful.
 
-> We see LLMs as **a new layer in the communication stack**:  
-> a protocol, a medium, a wire that facilitates interaction between people, communities, organizations, entities, and information systems.
+Some forecasts predict transformative AI within years, not decades, in this case we could be unprepared for the effects. 
+We can’t wait for perfect research or policy.
+The risk isn’t distant superintelligence, it has already started with the slow erosion of human agency happening right now.
+We propose a fast action where physical and local networks are the safety net. 
+#### At Dialogoo we ACT as a core value.
 
-### At dialogoo, we:
+## Approach
+We build with AI ethically.
+Contribute to strengthening and urgently building a strong physical layer before AGI and digital unbalance create a critical combo.
 
-- Use LLMs to **support and amplify human connectity**, not to damage it.
-- Focus on **mediating conversations**, not replacing participants.
-- Place **humans, communities, and cultures at the center** of every system.
-- Design LLM-driven experiences to **augment coordination, creativity, and mutual understanding**.
-- Treat LLMs as **transparent infrastructure** that gives fast access to knowledge, bridges between actors, and enable powerfull tool building for the common good.
+### How?
+We turn the algorithmic loop into a bridge toward real life by using AI contradictorily. AI is used to bring people back to people, pulling user from infinite scrolling into a face to face socialization. 
+Returning data ownership to people and ensure its security to avoid deep manipulation. 
 
-### At dialogoo, we don't:
+### What?
+Applied projects.
+Applied research, and analytics focused on policy change. 
 
-- Build LLMs as artificial companions.
-- Design systems where the model is the central voice.
-- Replace real relationships, community dynamics, or authorship with simulated interaction.
+### Why?
+Because it is too risky to rely on a digital network where control could be kidnaped.
+Because AI Safety begins where humans meet.
 
-We are committed to exploring the role of LLMs in **creating new ways to connect**, while ensuring that **agency, ownership, and intention remain in human hands**.  
-Our ambition is to build tools that are both technically sophisticated and socially grounded—designed not to impress, but to empower.
+## Core Values
+### At Dialogoo, we:
+Use AI to reconnect, not to trap.
+Understand physical networks and comunities as a resilience layer for a healthy system.
+Keep humans, cultures, and communities at the center.
+
+### We don’t:
+Build artificial companions.
+Optimize for engagement or addiction.
+Replace real relationships with simulation.
+Sell people's lives and intimacies in any data format.
+We build tools for balance, not distraction.
+
+## Join Us
+Dialogoo is an open umbrella for those who act.
+Builders. Researchers. Artists. Educators...
+Anyone who believes AI Safety needs to move quick. 
+
+## What’s Next
+A white paper is in progress,to ground these ideas in data, research, and methodology.
+Until then: prototype, connect, and share.
+The work is urgent. The invitation is open.
 
 ---
 
-## Contributing
-
-We welcome collaborators who share our values of ethical AI, open communication, and human-centered design.
-
-Whether you're into prototyping, LLM workflows, data privacy, or simply experimenting with new ideas—you're invited.
-
-### Summary:
-- Be kind, constructive, and clear in discussions.
-- Keep humans in the loop—both in code and in philosophy.
-- Follow the project structure and document your changes.
-- Respect data ownership and consent principles.
-
-📄 Read the full contributing guide here:  
-[contributing.md](./contributing.md)
-
-## Projects & Repositories
+## Projects
 <img width="100" height="100" alt="laiive1" src="https://github.com/user-attachments/assets/9a868af9-856b-47a8-b675-fcf7e2e309f1" />    <img width="100" height="100" alt="UDOs" src="https://github.com/user-attachments/assets/dc7a3194-57d5-4b16-a63c-2dca1d9a0e08" />
 
-#### [laiive](https://github.com/dialogoo/laiive/tree/main) is the main project of DIALOGOO, however most of the services that are behind laiive are being built project agnostic, so they can be used by other projects to expand DIALOGOO values.
-- [scraper](https://github.com/dialogoo/laiive/tree/main/services/scraper) data scraping engine until the wheel turns by itself.
-- parser
-- [pusher](https://github.com/dialogoo/laiive/tree/main/services/pusher) text to sql extractor with human validation workflows.
-- [retriever](https://github.com/dialogoo/laiive) a chat with laiive knowledge database.
-- [laiive UI](https://github.com/dialogoo/laiive/tree/main/services/frontend) just a "Zero clic" frontend.
-- [laiive_smm_agent](https://github.com/dialogoo/laiive_SMM_agent) a vive coding experiment, if you want to try to touch the frankentein you are wellcome, but don't lose your time, it's precious.
-- [UDO Recocommendation System](https://github.com/dialogoo/UDO-Recomendation-System) UDO stands for user data ownership, this means that no black box will manipulate users, users are aware of what they share or privately use to feed the recomender system, they can delete it, and change it at anytime. 
+[laiive](https://github.com/dialogoo/laiive/tree/main) is the fisrt project under the DIALOGOO umbrella, and some of the services that are behind laiive are being built project agnostic, so they can be used by other projects to expand DIALOGOO values.
+
+[UDO Recocommendation System](https://github.com/dialogoo/UDO-Recomendation-System) UDO stands for user data ownership, this means that no black box will manipulate users, users are aware of what they share or privately use to feed the recomender system, they can delete it, and change it at anytime. 
