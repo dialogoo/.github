@@ -1,7 +1,8 @@
 ##### this README.md IS A TEMPORARY DRAFT until the publication of dialogoo white paper. Dialogoo is an open project, suggestions, contributions and collaborations are very wellcome. 
 
 # DIALOGOO
-<img width="100" height="100" alt="DIALOGOOdark" src="https://github.com/user-attachments/assets/6502d33a-bb9b-452a-96bb-4c66450605a7" />    <img width="100" height="100" alt="laiive1" src="https://github.com/user-attachments/assets/9a868af9-856b-47a8-b675-fcf7e2e309f1" />    <img width="100" height="100" alt="UDOs" src="https://github.com/user-attachments/assets/dc7a3194-57d5-4b16-a63c-2dca1d9a0e08" />
+<img width="100" height="100" alt="DIALOGOOdark" src="https://github.com/user-attachments/assets/6502d33a-bb9b-452a-96bb-4c66450605a7" />    <img width="100" height="100" alt="laiive1" src="https://github.com/user-attachments/assets/9a868af9-856b-47a8-b675-fcf7e2e309f1" />    <img width="100" height="100" alt="UDOs" src="https://github.com/user-attachments/assets/dc7a3194-57d5-4b16-a63c-2dca1d9a0e08" /><img width="100" height="100" alt="thumbsDownLogo" src="https://github.com/user-attachments/assets/d77a2ebf-7233-409c-b281-ab9acd48707d" />
+
 
 ## Applied Ethical AI
 #### At Dialogoo we ACT as a core value.
