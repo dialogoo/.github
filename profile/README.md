@@ -1,8 +1,7 @@
 ##### this README.md IS A TEMPORARY DRAFT until the publication of dialogoo white paper. Dialogoo is an open project, suggestions, contributions and collaborations are very wellcome. 
 
 # DIALOGOO
-<img width="100" height="100" alt="DIALOGOOdark" src="https://github.com/user-attachments/assets/6502d33a-bb9b-452a-96bb-4c66450605a7" />    <img width="100" height="100" alt="laiive1" src="https://github.com/user-attachments/assets/9a868af9-856b-47a8-b675-fcf7e2e309f1" />    <img width="100" height="100" alt="UDOs" src="https://github.com/user-attachments/assets/dc7a3194-57d5-4b16-a63c-2dca1d9a0e08" /><img width="100" height="100" alt="thumbsDownLogo" src="https://github.com/user-attachments/assets/d77a2ebf-7233-409c-b281-ab9acd48707d" />
-
+<img width="100" height="100" alt="DIALOGOOlog" src="https://github.com/user-attachments/assets/464c5c8b-2c0c-41b7-8f84-43d6bd602db0" />    
 
 ## Applied Ethical AI
 #### At Dialogoo we ACT as a core value.
@@ -56,11 +55,11 @@ The work is urgent. The invitation is open.
 
 ---
 
-## Projects & Packages
-<img width="100" height="100" alt="laiive1" src="https://github.com/user-attachments/assets/9a868af9-856b-47a8-b675-fcf7e2e309f1" />    <img width="100" height="100" alt="UDOs" src="https://github.com/user-attachments/assets/dc7a3194-57d5-4b16-a63c-2dca1d9a0e08" />
-
+## Projects 
 [laiive](https://github.com/dialogoo/laiive/tree/main) is the fisrt project under the DIALOGOO umbrella, and some of the services that are behind laiive are being built project agnostic, so they can be used by other projects to expand DIALOGOO values.
-
+<img width="100" height="100" alt="laiive1" src="https://github.com/user-attachments/assets/9a868af9-856b-47a8-b675-fcf7e2e309f1" />
+## OS Packages
 [UDO Recocommender System](https://github.com/dialogoo/UDO-Recomender-System) UDO stands for user data ownership, this means that no black box will manipulate users, users are aware of what they share or privately use to feed the recomender system, they can delete it, and change it at anytime. 
-
+ <img width="100" height="100" alt="UDOs" src="https://github.com/user-attachments/assets/dc7a3194-57d5-4b16-a63c-2dca1d9a0e08" />
 [ThubsDown](https://github.com/dialogoo/ThumbsDown) is an automatic thumbs-up thumbs-down classifier for RLHF. Built under the assumptions: 1) users concentrated on the chat doesn't care so much about returning a feedback. 2) users that give feedback are per se a biased sample. 
+<img width="100" height="100" alt="thumbsDownLogo" src="https://github.com/user-attachments/assets/d77a2ebf-7233-409c-b281-ab9acd48707d" />
