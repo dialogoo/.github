@@ -60,6 +60,8 @@ The work is urgent. The invitation is open.
 
 <img width="100" height="100" alt="laiive1" src="https://github.com/user-attachments/assets/9a868af9-856b-47a8-b675-fcf7e2e309f1" />
 
+---
+
 ## OS Packages
 [UDO Recocommender System](https://github.com/dialogoo/UDO-Recomender-System) UDO stands for user data ownership, this means that no black box will manipulate users, users are aware of what they share or privately use to feed the recomender system, they can delete it, and change it at anytime. 
 
@@ -68,3 +70,10 @@ The work is urgent. The invitation is open.
 [ThubsDown](https://github.com/dialogoo/ThumbsDown) is an automatic thumbs-up thumbs-down classifier for RLHF. Built under the assumptions: 1) users concentrated on the chat doesn't care so much about returning a feedback. 2) users that give feedback are per se a biased sample. 
 
 <img width="100" height="100" alt="thumbsDownLogo" src="https://github.com/user-attachments/assets/d77a2ebf-7233-409c-b281-ab9acd48707d" />
+
+---
+
+## Whitepaper
+[DIALOGOO Whitepaper](https://github.com/dialogoo/dialogoo-whitepaper) 
+
+
