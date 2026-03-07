@@ -89,6 +89,9 @@ The work is urgent. The invitation is open.
 ---
 
 ## Open Source Packages
+[AI Safety Guardrails](https://github.com/dialogoo/AI-Safety-Guardrails), AI Safety Guardrails is a modular, production-ready package that adds layered protection around LLM applications across the full lifecycle of a request. It applies safety checks at four stages: input, processing/tool calls, output, and policy/compliance. The mision is reduce risks like PII leakage, prompt injection, unsafe tool use, and harmful responses before they reach users.
+
+Its relevance is in this defense-in-depth design: each layer catches different failure modes, while audit logging and compliance modules (EU AI Act, NIST AI RMF) provide traceability and governance for real-world deployment.  
 
 [UDO Recommender System](https://github.com/dialogoo/UDO-Recomender-System), UDO stands for User Data Ownership. No black box manipulates users: they are aware of what they share or privately use to feed the recommender system, and can delete or modify it at any time.
 
