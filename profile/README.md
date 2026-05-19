@@ -16,7 +16,9 @@ We are aware that the digital layer grows thicker every day. A digital intermedi
 
 Some forecasts predict transformative AI within years, not decades. If that is the case, we may be unprepared for the effects. We cannot wait for perfect research or policy.
 
-The risk is not distant superintelligence. It has already started: the slow erosion of human agency is happening right now.
+The risk is not distant superintelligence. It has already started: the slow erosion of human agency.
+
+We understand social infrastructure as a critical infrastructure, as they are power grids. 
 
 **1st line of action, immediate:** We propose fast action where physical and local networks serve as the safety net. We build AI systems that contribute to strengthening the physical layer urgently, before AGI and digital imbalance create a critical combination.
 
