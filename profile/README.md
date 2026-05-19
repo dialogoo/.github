@@ -3,8 +3,9 @@
 # DIALOGOO
 <img width="100" height="100" alt="DIALOGOOlog" src="https://github.com/user-attachments/assets/464c5c8b-2c0c-41b7-8f84-43d6bd602db0" />    
 
-## Social infrastructure is a critical infrastructure.
+## AI Safety and ethical AI applications.
 #### At Dialogoo, we ACT as a core value.
+#### At Dialogoo, we understand social infrastructure as a critical infrastructure.
 
 Dialogoo was born as a natural response to digital imbalance, under the critical assumption that as digital systems become more intelligent, digital imbalance amplifies certain disruptive social risks. Dialogoo is open to any ethical AI initiative and ready to pivot if the times require it.
 
