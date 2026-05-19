@@ -20,7 +20,7 @@ The risk is not distant superintelligence. It has already started: the slow eros
 
 **1st line of action, immediate:** We propose fast action where physical and local networks serve as the safety net. We build AI systems that contribute to strengthening the physical layer urgently, before AGI and digital imbalance create a critical combination.
 
-**2nd line of action:** Technical research on safety layers.
+**2nd line of action:** Technical research and applications on safety layers.
 
 **3rd line of action:** Research and communication, we use data, real examples, and red-teaming scenarios to build critical mass and pressure decision-makers to act accordingly.
 
