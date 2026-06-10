@@ -40,7 +40,9 @@ laiive: the first project under the Dialogoo umbrella. Some of the services buil
 Open-source packages
 AI Safety Guardrails, a modular, production-ready package that adds layered protection around LLM applications across the full lifecycle of a request. It applies safety checks at four stages: input, processing/tool calls, output, and policy/compliance. The mission is to reduce risks like PII leakage, prompt injection, unsafe tool use, and harmful responses before they reach users. Its relevance is in this defense-in-depth design: each layer catches different failure modes, while audit logging and compliance modules (EU AI Act, NIST AI RMF) provide traceability and governance for real-world deployment.
 UDO Recommender System, UDO stands for User Data Ownership. No black box manipulates users: they are aware of what they share or privately use to feed the recommender system, and can delete or modify it at any time.
+
 <img width="100" height="100" alt="UDOs" src="https://github.com/user-attachments/assets/dc7a3194-57d5-4b16-a63c-2dca1d9a0e08" />
+
 Open to new build projects.
 
 How we apply AI
