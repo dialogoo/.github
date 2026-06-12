@@ -20,7 +20,7 @@ We are aware that the digital layer grows thicker every day. We refuse to remain
 
 A digital intermediate layer is thickening between human connections, and the models and agents that manage those connections are becoming more powerful every day. When a single layer mediates how people talk, decide, and relate, whoever controls it gains outsized power, and communities lose agency.
 
-The risk is not a distant superintelligence. It has already begun: the slow erosion of human agency.
+The risk is not a distant superintelligence. It has already begun: the slow erosion of human agency and power contentration.
 
 Some forecasts put transformative AI in years, not decades. We may be unprepared for the effects, and we cannot wait for perfect research or perfect policy. So we treat social infrastructure the way we treat a power grid, as critical infrastructure to be protected and strengthened, urgently, before digital imbalance and advanced AI combine into something we cannot undo.
 
@@ -37,6 +37,8 @@ We study AI safety with an integral approach focused on resilient systems or vul
 ### [territorial-ai-safety](https://github.com/dialogoo/territorial-ai-safety) *(in progress)*
 
 Research into AI-safe towns and cities, and a transparent, reproducible evaluation system that scores and ranks territories on their resilience: distributed decision-making, redundant communication channels (no single point of dependence), local ownership, civic density, AI literacy, and exposure to capture.
+
+The living book is published and evolving: [living book](dialogoo.github.io/territorial-ai-safety)
 
 *Open to new research projects.*
 
@@ -63,8 +65,8 @@ Practical, accessible learning materials directed at the local leaders who hold 
 ---
 
 ## BUILD
-
-This is the action arm. We build safe AI apps and agentic systems that rebalance digital and physical social interaction, reinforce local communities and social dynamics, and return data ownership to people. Physical and local networks are the safety net — we build to make it stronger, fast, before AGI and digital imbalance create a critical combination. Alongside this, we develop technical research and applications on safety layers.
+### Applications
+This is the action arm. TWe build safe apps to rebalance digital and physical social interaction, reinforce local communities and social dynamics, and return data ownership to people. Physical and local networks are the safety net, social infrastructure is a critical infrastructure. We build to make it stronger, fast, before AGI or malicious actors using AI, and digital imbalance create a critical combination. Alongside this, we develop technical research and applications on safety layers.
 
 ### [laiive](https://github.com/dialogoo/laiive/tree/main)
 
@@ -78,7 +80,7 @@ The first project under the Dialogoo umbrella. Some of the services built behind
 
 A modular, production-ready package that adds layered protection around LLM applications across the full lifecycle of a request. It applies safety checks at four stages: input, processing/tool calls, output, and policy/compliance. The mission is to reduce risks like PII leakage, prompt injection, unsafe tool use, and harmful responses before they reach users. Its relevance is in this defense-in-depth design: each layer catches different failure modes, while audit logging and compliance modules (EU AI Act, NIST AI RMF) provide traceability and governance for real-world deployment.
 
-#### [UDO Recommender System](https://github.com/dialogoo/UDO-Recomender-System)
+#### [UDO Recommender System](https://github.com/dialogoo/UDO)
 
 UDO stands for User Data Ownership. No black box manipulates users: they are aware of what they share or privately use to feed the recommender system, and can delete or modify it at any time.
 
