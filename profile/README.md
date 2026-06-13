@@ -52,7 +52,7 @@ We turn research into pressure. Using data, real examples, and red-teaming scena
 
 ### AI safe territories *(in progress)*
 
-Materials extracted from the territorial-ai-safety research.
+Articles and other materials extracted from the territorial-ai-safety research.
 
 ### Territorial AI-Safety Map *(in progress)*
 
