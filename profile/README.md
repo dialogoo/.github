@@ -36,6 +36,13 @@ We study AI safety with an integral approach focused on resilient systems or vul
 
 ### [territorial-ai-safety](https://github.com/dialogoo/territorial-ai-safety) *(in progress)*
 
+![Stage](https://img.shields.io/badge/stage-in%20progress-7F77DD?style=flat-square) ![Progress](https://img.shields.io/badge/progress-20%25-7F77DD?style=flat-square)
+
+- ✅ Some chapter ideas drafted
+- ✅ Bibliography for some chapters
+- 🔄 Companion article at 80%
+- ⬜ Full manuscript not started
+
 Research into AI-safe towns and cities, and a transparent, reproducible evaluation system that scores and ranks territories on their resilience: distributed decision-making, redundant communication channels (no single point of dependence), local ownership, civic density, AI literacy, and exposure to capture.
 
 The living book is published and evolving: [living book](dialogoo.github.io/territorial-ai-safety)
@@ -75,6 +82,12 @@ Two main strategies lead dialogoo building arm:
 
 ### [laiive](https://github.com/dialogoo/laiive/tree/main)
 
+![Stage](https://img.shields.io/badge/stage-going%20to%20market-1D9E75?style=flat-square) ![Progress](https://img.shields.io/badge/progress-90%25-1D9E75?style=flat-square)
+
+- ✅ Backend built
+- ✅ Frontend developed
+- 🔄 Go-to-market in progress
+- ⬜ Public launch pending
 The first project under the Dialogoo umbrella. Some of the services built behind laiive are being developed as project-agnostic, so they can be used by other projects to extend Dialogoo's values.
 
 <img width="100" height="100" alt="laiive1" src="https://github.com/user-attachments/assets/9a868af9-856b-47a8-b675-fcf7e2e309f1" />
@@ -83,10 +96,24 @@ The first project under the Dialogoo umbrella. Some of the services built behind
 
 #### [AI Safety Guardrails](https://github.com/dialogoo/AI-Safety-Guardrails)
 
+![Stage](https://img.shields.io/badge/stage-early%20stage-378ADD?style=flat-square) ![Progress](https://img.shields.io/badge/progress-50%25-378ADD?style=flat-square)
+
+- ✅ Modular codebase written
+- ⚠️ Evals missing
+- ⚠️ Not yet published / released
+- ⬜ No go-to-market strategy
+
 A modular package that adds layered protection around LLM applications across the full lifecycle of a request. It applies safety checks at four stages: input, processing/tool calls, output, and policy/compliance. The mission is to reduce risks like PII leakage, prompt injection, unsafe tool use, and harmful responses before they reach users. Its relevance is in this defense-in-depth design: each layer catches different failure modes, while audit logging and compliance modules (EU AI Act, NIST AI RMF) provide traceability and governance for real-world deployment.
 
 #### [UDO Recommender System](https://github.com/dialogoo/UDO)
 
+![Stage](https://img.shields.io/badge/stage-concept-EF9F27?style=flat-square&logoColor=white) ![Progress](https://img.shields.io/badge/progress-20%25-EF9F27?style=flat-square&logoColor=white)
+
+- ✅ Architecture & structure defined
+- ⚠️ Decision to proceed still open
+- ⬜ Core development not started
+- ⬜ No go-to-market yet
+  
 UDO stands for User Data Ownership. No black box manipulates users: they are aware of what they share or privately use to feed the recommender system, and can delete or modify it at any time.
 
 <img width="100" height="100" alt="UDOs" src="https://github.com/user-attachments/assets/dc7a3194-57d5-4b16-a63c-2dca1d9a0e08" />
