@@ -82,7 +82,7 @@ Two main strategies lead dialogoo building arm:
 
 ### [laiive](https://github.com/dialogoo/laiive/tree/main)
 
-![Stage](https://img.shields.io/badge/stage-going%20to%20market-1D9E75?style=flat-square) ![Progress](https://img.shields.io/badge/progress-90%25-1D9E75?style=flat-square)
+![Stage](https://img.shields.io/badge/stage-going%20to%20market-1D9E75?style=flat-square) ![Progress](https://img.shields.io/badge/progress-80%25-1D9E75?style=flat-square)
 
 - ✅ Backend built
 - ✅ Frontend developed
@@ -96,7 +96,7 @@ The first project under the Dialogoo umbrella. Some of the services built behind
 
 #### [AI Safety Guardrails](https://github.com/dialogoo/AI-Safety-Guardrails)
 
-![Stage](https://img.shields.io/badge/stage-early%20stage-378ADD?style=flat-square) ![Progress](https://img.shields.io/badge/progress-50%25-378ADD?style=flat-square)
+![Stage](https://img.shields.io/badge/stage-early%20stage-378ADD?style=flat-square) ![Progress](https://img.shields.io/badge/progress-40%25-378ADD?style=flat-square)
 
 - ✅ Modular codebase written
 - ⚠️ Evals missing
@@ -107,7 +107,7 @@ A modular package that adds layered protection around LLM applications across th
 
 #### [UDO Recommender System](https://github.com/dialogoo/UDO)
 
-![Stage](https://img.shields.io/badge/stage-concept-EF9F27?style=flat-square&logoColor=white) ![Progress](https://img.shields.io/badge/progress-20%25-EF9F27?style=flat-square&logoColor=white)
+![Stage](https://img.shields.io/badge/stage-concept-EF9F27?style=flat-square&logoColor=white) ![Progress](https://img.shields.io/badge/progress-10%25-EF9F27?style=flat-square&logoColor=white)
 
 - ✅ Architecture & structure defined
 - ⚠️ Decision to proceed still open
