@@ -65,8 +65,13 @@ Practical, accessible learning materials directed at the local leaders who hold 
 ---
 
 ## BUILD
+
+This is the action arm. We build safe apps to rebalance digital and physical social interaction, reinforce local communities and social dynamics, and return data ownership to people. Physical and local networks are the safety net, social infrastructure is a critical infrastructure. We build to make it stronger, fast, before AGI or malicious actors using AI, and digital imbalance create a critical combination. Alongside this, we develop technical research and applications on safety layers.
+
+Two main strategies lead dialogoo building arm: 
+1 build to enhance social infrastructure and promote physical interactions.
+2 build to decrease digital dependency, to make AI products safer, to avoid an intermediate AI layer between humans, and to increase missinformation awarness. 
 ### Applications
-This is the action arm. TWe build safe apps to rebalance digital and physical social interaction, reinforce local communities and social dynamics, and return data ownership to people. Physical and local networks are the safety net, social infrastructure is a critical infrastructure. We build to make it stronger, fast, before AGI or malicious actors using AI, and digital imbalance create a critical combination. Alongside this, we develop technical research and applications on safety layers.
 
 ### [laiive](https://github.com/dialogoo/laiive/tree/main)
 
@@ -92,7 +97,7 @@ UDO stands for User Data Ownership. No black box manipulates users: they are awa
 
 ## How we apply AI
 
-We turn the algorithmic loop into a bridge toward real life. AI is used not as an addictive form of interaction, but to bring people back to people — pulling users out of infinite scrolling and dopamine drain and into face-to-face socialization and public life. We return data ownership to users and ensure its security to prevent deep manipulation.
+We turn the algorithmic loop into a bridge toward real life. AI is used not as an addictive form of interaction, but to bring people back to people, pulling users out of infinite scrolling and dopamine drain and into face-to-face socialization and public life. We return data ownership to users and ensure its security to prevent deep manipulation.
 
 ---
 
