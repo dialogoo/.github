@@ -36,12 +36,7 @@ We study AI safety with an integral approach focused on resilient systems or vul
 
 ### [territorial-ai-safety](https://github.com/dialogoo/territorial-ai-safety) *(in progress)*
 
-![Stage](https://img.shields.io/badge/stage-in%20progress-7F77DD?style=flat-square) ![Progress](https://img.shields.io/badge/progress-20%25-7F77DD?style=flat-square)
-
-- ✅ Some chapter ideas drafted
-- ✅ Bibliography for some chapters
-- 🔄 Companion article at 80%
-- ⬜ Full manuscript not started
+![Stage](https://img.shields.io/badge/stage-in%20progress-7F77DD?style=flat-square) ![Progress](https://img.shields.io/badge/progress-20%25-7F77DD?style=flat-square) ![](https://img.shields.io/badge/✅%20chapter%20ideas%20drafted-grey?style=flat-square) ![](https://img.shields.io/badge/✅%20bibliography%20started-grey?style=flat-square) ![](https://img.shields.io/badge/🔄%20article%20at%2080%25-grey?style=flat-square) ![](https://img.shields.io/badge/⬜%20manuscript%20not%20started-grey?style=flat-square)
 
 Research into AI-safe towns and cities, and a transparent, reproducible evaluation system that scores and ranks territories on their resilience: distributed decision-making, redundant communication channels (no single point of dependence), local ownership, civic density, AI literacy, and exposure to capture.
 
@@ -82,14 +77,7 @@ Two main strategies lead dialogoo building arm:
 
 ### [laiive](https://github.com/dialogoo/laiive/tree/main)
 
-![Stage](https://img.shields.io/badge/stage-going%20to%20market-1D9E75?style=flat-square) ![Progress](https://img.shields.io/badge/progress-90%25-1D9E75?style=flat-square)
-
-| | |
-|---|---|
-| ✅ | Backend built |
-| ✅ | Frontend developed |
-| 🔄 | Go-to-market in progress |
-| ⬜ | Public launch pending |
+![Stage](https://img.shields.io/badge/stage-going%20to%20market-1D9E75?style=flat-square) ![Progress](https://img.shields.io/badge/progress-90%25-1D9E75?style=flat-square) ![](https://img.shields.io/badge/✅%20backend%20built-grey?style=flat-square) ![](https://img.shields.io/badge/✅%20frontend%20developed-grey?style=flat-square) ![](https://img.shields.io/badge/🔄%20GTM%20in%20progress-grey?style=flat-square) ![](https://img.shields.io/badge/⬜%20launch%20pending-grey?style=flat-square)
   
 The first project under the Dialogoo umbrella. Some of the services built behind laiive are being developed as project-agnostic, so they can be used by other projects to extend Dialogoo's values.
 
@@ -99,23 +87,13 @@ The first project under the Dialogoo umbrella. Some of the services built behind
 
 #### [AI Safety Guardrails](https://github.com/dialogoo/AI-Safety-Guardrails)
 
-![Stage](https://img.shields.io/badge/stage-early%20stage-378ADD?style=flat-square) ![Progress](https://img.shields.io/badge/progress-40%25-378ADD?style=flat-square)
-
-- ✅ Modular codebase written
-- ⚠️ Evals missing
-- ⚠️ Not yet published / released
-- ⬜ No go-to-market strategy
+![Stage](https://img.shields.io/badge/stage-early%20stage-378ADD?style=flat-square) ![Progress](https://img.shields.io/badge/progress-50%25-378ADD?style=flat-square) ![](https://img.shields.io/badge/✅%20codebase%20written-grey?style=flat-square) ![](https://img.shields.io/badge/⚠️%20evals%20missing-grey?style=flat-square) ![](https://img.shields.io/badge/⚠️%20not%20published-grey?style=flat-square) ![](https://img.shields.io/badge/⬜%20no%20GTM%20strategy-grey?style=flat-square)
 
 A modular package that adds layered protection around LLM applications across the full lifecycle of a request. It applies safety checks at four stages: input, processing/tool calls, output, and policy/compliance. The mission is to reduce risks like PII leakage, prompt injection, unsafe tool use, and harmful responses before they reach users. Its relevance is in this defense-in-depth design: each layer catches different failure modes, while audit logging and compliance modules (EU AI Act, NIST AI RMF) provide traceability and governance for real-world deployment.
 
 #### [UDO Recommender System](https://github.com/dialogoo/UDO)
 
-![Stage](https://img.shields.io/badge/stage-concept-EF9F27?style=flat-square&logoColor=white) ![Progress](https://img.shields.io/badge/progress-10%25-EF9F27?style=flat-square&logoColor=white)
-
-- ✅ Architecture & structure defined
-- ⚠️ Decision to proceed still open
-- ⬜ Core development not started
-- ⬜ No go-to-market yet
+![Stage](https://img.shields.io/badge/stage-concept-EF9F27?style=flat-square&logoColor=white) ![Progress](https://img.shields.io/badge/progress-20%25-EF9F27?style=flat-square&logoColor=white) ![](https://img.shields.io/badge/✅%20architecture%20defined-grey?style=flat-square) ![](https://img.shields.io/badge/⚠️%20decision%20pending-grey?style=flat-square) ![](https://img.shields.io/badge/⬜%20dev%20not%20started-grey?style=flat-square) ![](https://img.shields.io/badge/⬜%20no%20GTM%20yet-grey?style=flat-square)
   
 UDO stands for User Data Ownership. No black box manipulates users: they are aware of what they share or privately use to feed the recommender system, and can delete or modify it at any time.
 
