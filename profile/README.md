@@ -82,12 +82,15 @@ Two main strategies lead dialogoo building arm:
 
 ### [laiive](https://github.com/dialogoo/laiive/tree/main)
 
-![Stage](https://img.shields.io/badge/stage-going%20to%20market-1D9E75?style=flat-square) ![Progress](https://img.shields.io/badge/progress-80%25-1D9E75?style=flat-square)
+![Stage](https://img.shields.io/badge/stage-going%20to%20market-1D9E75?style=flat-square) ![Progress](https://img.shields.io/badge/progress-90%25-1D9E75?style=flat-square)
 
-- ✅ Backend built
-- ✅ Frontend developed
-- 🔄 Go-to-market in progress
-- ⬜ Public launch pending
+| | |
+|---|---|
+| ✅ | Backend built |
+| ✅ | Frontend developed |
+| 🔄 | Go-to-market in progress |
+| ⬜ | Public launch pending |
+  
 The first project under the Dialogoo umbrella. Some of the services built behind laiive are being developed as project-agnostic, so they can be used by other projects to extend Dialogoo's values.
 
 <img width="100" height="100" alt="laiive1" src="https://github.com/user-attachments/assets/9a868af9-856b-47a8-b675-fcf7e2e309f1" />
