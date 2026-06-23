@@ -75,7 +75,7 @@ Two main strategies lead dialogoo building arm:
 2 build to decrease digital dependency, to make AI products safer, to avoid an intermediate AI layer between humans, and to increase missinformation awarness. 
 ### Applications
 
-### [laiive](https://github.com/dialogoo/laiive/tree/main)
+#### [laiive](https://github.com/dialogoo/laiive/tree/main)
 
 ![Stage](https://img.shields.io/badge/stage-going%20to%20market-1D9E75?style=flat-square) ![Progress](https://img.shields.io/badge/progress-80%25-1D9E75?style=flat-square) ![](https://img.shields.io/badge/✅%20backend%20built-grey?style=flat-square) ![](https://img.shields.io/badge/✅%20frontend%20developed-grey?style=flat-square) ![](https://img.shields.io/badge/🔄%20GTM%20in%20progress-grey?style=flat-square) ![](https://img.shields.io/badge/⬜%20launch%20pending-grey?style=flat-square)
   
@@ -83,11 +83,8 @@ The first project under the Dialogoo umbrella. Some of the services built behind
 
 <img width="100" height="100" alt="laiive1" src="https://github.com/user-attachments/assets/9a868af9-856b-47a8-b675-fcf7e2e309f1" />
 
----
 
-## get-out-door
-
-### [get-out-door](https://github.com/dialogoo/get-out-door)
+#### [get-out-door](https://github.com/dialogoo/get-out-door)
 ![Stage](https://img.shields.io/badge/stage-in%20development-6B8CFF?style=flat-square) ![Progress](https://img.shields.io/badge/progress-20%25-6B8CFF?style=flat-square) ![](https://img.shields.io/badge/✅%20graph%20schema%20designed-grey?style=flat-square) ![](https://img.shields.io/badge/🔄%20ingestion%20pipeline%20in%20progress-grey?style=flat-square) ![](https://img.shields.io/badge/⬜%20chatbot%20query%20layer-grey?style=flat-square) ![](https://img.shields.io/badge/⬜%20API%20endpoints-grey?style=flat-square)
 
 A multi-hop adventure chatbot backend built inside laiive. Developed as project-agnostic so it can be reused across the Dialogoo umbrella. Connects people with trails, hikes, and outdoor routes through a knowledge graph that answers complex natural-language queries — pulling users away from the screen and into the physical world.
