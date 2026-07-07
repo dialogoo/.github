@@ -1,3 +1,5 @@
+![Dialogoo Banner](./profile-banner.png)
+
 ## AI safety and ethical AI applications
 
 **Social infrastructure is critical infrastructure.**
