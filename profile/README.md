@@ -36,7 +36,7 @@ We study AI safety with an integral approach focused on resilient systems or vul
 
 Research into AI-safe towns and cities, and a transparent, reproducible evaluation system that scores and ranks territories on their resilience: distributed decision-making, redundant communication channels (no single point of dependence), local ownership, civic density, AI literacy, and exposure to capture.
 
-The living book is published and evolving: [living book](dialogoo.github.io/territorial-ai-safety)
+The living book is published and evolving: [living book](https://dialogoo.github.io/territorial-ai-safety/)
 
 *Open to new research projects.*
 
