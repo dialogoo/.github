@@ -107,7 +107,7 @@ UDO stands for User Data Ownership. No black box manipulates users: they are awa
 
 ---
 
-## How we apply AI
+## How we do think civic tech and apply AI 
 
 We turn the algorithmic loop into a bridge toward real life. AI is used not as an addictive form of interaction, but to bring people back to people, pulling users out of infinite scrolling and dopamine drain and into face-to-face socialization and public life. We return data ownership to users and ensure its security to prevent deep manipulation.
 
