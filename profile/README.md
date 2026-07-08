@@ -38,8 +38,6 @@ Research into AI-safe towns and cities, and a transparent, reproducible evaluati
 
 The living book is published and evolving: [living book](https://dialogoo.github.io/territorial-ai-safety/)
 
-*Open to new research projects.*
-
 ---
 
 ## COMMUNICATE
@@ -58,7 +56,6 @@ An interactive map that makes the territorial rankings legible, comparable, and 
 
 Practical, accessible learning materials directed at the local leaders who hold communities together.
 
-*Open to new communication projects.*
 
 ---
 
@@ -76,8 +73,6 @@ Two main strategies lead dialogoo building arm:
 ![Stage](https://img.shields.io/badge/stage-going%20to%20market-1D9E75?style=flat-square) ![Progress](https://img.shields.io/badge/progress-80%25-1D9E75?style=flat-square) ![](https://img.shields.io/badge/✅%20backend%20built-grey?style=flat-square) ![](https://img.shields.io/badge/✅%20frontend%20developed-grey?style=flat-square) ![](https://img.shields.io/badge/🔄%20GTM%20in%20progress-grey?style=flat-square) ![](https://img.shields.io/badge/⬜%20launch%20pending-grey?style=flat-square)
   
 The first project under the Dialogoo umbrella. Some of the services built behind laiive are being developed as project-agnostic, so they can be used by other projects to extend Dialogoo's values.
-
-<img width="100" height="100" alt="laiive1" src="https://github.com/user-attachments/assets/9a868af9-856b-47a8-b675-fcf7e2e309f1" />
 
 
 #### [get-out-door](https://github.com/dialogoo/get-out-door)
@@ -100,10 +95,6 @@ A modular package that adds layered protection around LLM applications across th
 ![Stage](https://img.shields.io/badge/stage-concept-EF9F27?style=flat-square&logoColor=white) ![Progress](https://img.shields.io/badge/progress-10%25-EF9F27?style=flat-square&logoColor=white) ![](https://img.shields.io/badge/✅%20architecture%20defined-grey?style=flat-square) ![](https://img.shields.io/badge/⚠️%20decision%20pending-grey?style=flat-square) ![](https://img.shields.io/badge/⬜%20dev%20not%20started-grey?style=flat-square) ![](https://img.shields.io/badge/⬜%20no%20GTM%20yet-grey?style=flat-square)
   
 UDO stands for User Data Ownership. No black box manipulates users: they are aware of what they share or privately use to feed the recommender system, and can delete or modify it at any time.
-
-<img width="100" height="100" alt="UDOs" src="https://github.com/user-attachments/assets/dc7a3194-57d5-4b16-a63c-2dca1d9a0e08" />
-
-*Open to new build projects.*
 
 ---
 
