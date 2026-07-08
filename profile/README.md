@@ -69,7 +69,7 @@ This is the action arm. We build safe apps to rebalance digital and physical soc
 Two main strategies lead dialogoo building arm: 
 1 build to enhance social infrastructure and promote physical interactions.
 2 build to decrease digital dependency, to make AI products safer, to avoid an intermediate AI layer between humans, and to increase missinformation awarness. 
-### Applications
+### Civic Tech Applications
 
 #### [laiive](https://github.com/dialogoo/laiive/tree/main)
 
