@@ -1,6 +1,6 @@
 ![Dialogoo Banner](./profile-banner.png)
 
-## AI safety and ethical AI applications
+## AI safety integral strategy and civic tech
 
 **Social infrastructure is critical infrastructure.**
 **AI safety begins where humans meet.**
